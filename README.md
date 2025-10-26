@@ -1,4 +1,4 @@
-# Anker Zhu
+# Qimin Zhu
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +6,7 @@
   
 </head>
 <body>
-  <p>Hi! I am Anker, a first year student in ICT faculty Mahidol.</p>
+  <p>Hi! I am Qimin, feel free to call me Anker, a first year student in ICT faculty Mahidol.</p>
   <p>Currently, I am learning C and mathematics.</p>
 </body>
 
